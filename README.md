@@ -16,7 +16,7 @@ mgl-random
 ```
 
 # Contribution
-I invite you to collaborate directly in this repository: []()
+I invite you to collaborate directly in this repository: [Repository](https://github.com/MagdielGrande/mgl-random)
 
 
 ### License
